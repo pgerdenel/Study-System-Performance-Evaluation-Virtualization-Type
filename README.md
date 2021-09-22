@@ -1,4 +1,4 @@
-# Study-System-Performance-Evaluation-Virtualization-Type (2018 – 2019)
+# Study-System-Performance-Evaluation-Virtualization-Type
 Étude et synthèse en anglais sur l'article de conférence :
 
 - "System Performance Evaluation of Para Virtualization, Container Virtualization, and Full Virtualization
